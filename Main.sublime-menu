@@ -1,0 +1,20 @@
+[
+    {
+        "caption": "View",
+        "mnemonic": "V",
+        "id": "view",
+        "children":
+        [
+            {
+                "caption": "Indentation",
+                "mnemonic": "I",
+                "id": "indentation",
+                "children":
+                [
+                    { "caption": "-" },
+                    { "command": "indent_size", "caption": "Change Tab Size" },
+                ]
+            }
+        ]
+    }
+]
