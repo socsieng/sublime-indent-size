@@ -6,7 +6,7 @@ This package adds a command to change the size of the indentation of the active 
 
 Invoke the command using the command palette (`control`/`command` + `shift` + `p`):
 
-* Command: *Change Tab Size*
+* Command: *Change Indent/Tab Size*
 
 ## Installation
 

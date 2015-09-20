@@ -12,7 +12,7 @@
                 "children":
                 [
                     { "caption": "-" },
-                    { "command": "indent_size", "caption": "Change Tab Size" },
+                    { "command": "indent_size", "caption": "Change Indent/Tab Size" },
                 ]
             }
         ]
