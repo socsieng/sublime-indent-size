@@ -1,6 +1,6 @@
 [
   {
     "command": "indent_size",
-    "caption": "Change Tab Size"
+    "caption": "Change Indent/Tab Size"
   }
 ]
